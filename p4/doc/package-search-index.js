@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"alumnos"},{"l":"aplicacion"},{"l":"fechas"},{"l":"main"},{"l":"manejoFicheros"},{"l":"profesores"},{"l":"tutorias"}]
